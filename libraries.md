@@ -91,6 +91,8 @@
     - [`mmottl/aifad`](https://github.com/mmottl/aifad)
         - Cool but need to find something useful to
           [do](https://github.com/mmottl/aifad#contact-information-and-contributing).
+    - [`struktured/ocaml-prob-cache`](https://github.com/struktured/ocaml-prob-cache)
+        - Polymorphic distributed caching of multinomial distributions backed by riak
 - Cryptography:
     - [cryptokit](https://forge.ocamlcore.org/projects/cryptokit/)
         - Easy to use / lego-brick-like composition of transformations.
