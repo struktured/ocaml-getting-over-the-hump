@@ -85,7 +85,7 @@
         - Advanced on the math side,
           cf. [Gaussian process](http://en.wikipedia.org/wiki/Gaussian_process)
         - `BuildDepends: threads, core, lacaml, gsl`
-    - [HANSEI](okmij.org/ftp/kakuritu/)
+    - [HANSEI](http://okmij.org/ftp/kakuritu/)
         - Oleg's statistical programming EDSL.
         - See [examples](http://okmij.org/ftp/kakuritu/paper_examples.ml)
     - [`mmottl/aifad`](https://github.com/mmottl/aifad)
